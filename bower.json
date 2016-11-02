@@ -1,0 +1,28 @@
+{
+  "name": "ionic-sortable",
+  "version": "0.0.01",
+  "homepage": "",
+  "authors": [
+    "Luca Chiavelli <luca.chiavelli.36@gmail.com>"
+  ],
+  "description": "Fully declarative (multi)sortable for Ionic",
+  "main": "./src/ionic-sortable.js",
+  "keywords": [
+    "angularjs",
+    "ionic",
+    "sortable",
+    "ui-sortable",
+    "sort",
+    "sorting",
+    "declarative"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "lib"
+  ]
+}
