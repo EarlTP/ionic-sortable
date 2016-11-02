@@ -1,23 +1,24 @@
 {
   "name": "ionic-sortable",
-  "version": "0.0.01",
-  "homepage": "https://github.com/EarlTP/ionic-sortable/",
+  "homepage": "https://github.com/EarlTP/ionic-sortable",
   "authors": [
-    "Luca Chiavelli <luca.chiavelli.36@gmail.com>"
+    "EarlTP <earltp36@gmail.com>"
   ],
   "description": "Fully declarative (multi)sortable for Ionic",
-  "main": "./src/ionic-sortable.js",
+  "main": "src/ionic-sortable.js",
   "keywords": [
-    "angularjs",
     "ionic",
+    "angularjs",
     "sortable",
-    "ui-sortable",
     "sort",
-    "sorting",
-    "declarative"
+    "drag"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
