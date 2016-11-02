@@ -1,7 +1,7 @@
 {
   "name": "ionic-sortable",
   "version": "0.0.01",
-  "homepage": "",
+  "homepage": "https://github.com/EarlTP/ionic-sortable/",
   "authors": [
     "Luca Chiavelli <luca.chiavelli.36@gmail.com>"
   ],
@@ -18,11 +18,6 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "lib"
+    "**/.*"
   ]
 }

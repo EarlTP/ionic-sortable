@@ -1,7 +1,6 @@
 module.exports = function(grunt){
 	grunt.loadNpmTasks('grunt-contrib-jshint');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
-	// grunt.loadNpmTasks('grunt-karma');
 
 	grunt.initConfig({
 		uglify: {
@@ -11,8 +10,8 @@ module.exports = function(grunt){
 				}
 			},
 			options: {
-				banner: '/*\n\tCopyright Kamil Pękala http://github.com/kamilkp\n' +
-						'\tangular-sortable-view v0.0.13 2015/01/13\n*/\n'
+				banner: '/*\n\tCopyright Luca Chiavelli https://github.com/EarlTP\n' +
+						'\tionic-sortable v0.0.01 2016/11/01\n*/\n'
 			}
 		},
 		jshint: {

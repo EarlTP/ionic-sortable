@@ -1,7 +1,7 @@
 ;(function(window, angular){
 	'use strict';
 
-	var module = angular.module('ionic-sorter', []);
+	var module = angular.module('ionic-sortable', []);
 	module.directive('svRoot', [function(){
 		function shouldBeAfter(elem, pointer, isGrid, rect){
 			if(isGrid) {

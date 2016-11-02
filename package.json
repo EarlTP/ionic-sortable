@@ -3,15 +3,15 @@
   "version": "0.0.01",
   "description": "Fully declarative (multi)sortable for Ionic",
   "main": "./src/ionic-sortable.js",
-  "homepage": "",
+  "homepage": "https://github.com/EarlTP/ionic-sortable/",
   "author": {
     "name": "Luca Chiavelli",
     "email": "luca.chiavelli.36@gmail.com",
-    "url": ""
+    "url": "https://github.com/EarlTP"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/EarlTP/ionic-sortable/"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
